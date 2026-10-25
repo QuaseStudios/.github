@@ -105,6 +105,7 @@ Acompanhe o estúdio
 - Quase Games: https://quasegames.com.br
 - Quase Labs: https://quaselabs.com.br
 - GitHub: https://github.com/quasestudios
+
 Outros canais oficiais serão adicionados à medida que forem configurados.
 <div align="center">
 
